@@ -1,0 +1,8 @@
+C:\Users\igor.cpereira2\source\repos\Cisne\Cisne\bin\Debug\Cisne.exe.config
+C:\Users\igor.cpereira2\source\repos\Cisne\Cisne\bin\Debug\Cisne.exe
+C:\Users\igor.cpereira2\source\repos\Cisne\Cisne\bin\Debug\Cisne.pdb
+C:\Users\igor.cpereira2\source\repos\Cisne\Cisne\obj\Debug\Cisne.csproj.AssemblyReference.cache
+C:\Users\igor.cpereira2\source\repos\Cisne\Cisne\obj\Debug\Cisne.csproj.SuggestedBindingRedirects.cache
+C:\Users\igor.cpereira2\source\repos\Cisne\Cisne\obj\Debug\Cisne.csproj.CoreCompileInputs.cache
+C:\Users\igor.cpereira2\source\repos\Cisne\Cisne\obj\Debug\Cisne.exe
+C:\Users\igor.cpereira2\source\repos\Cisne\Cisne\obj\Debug\Cisne.pdb

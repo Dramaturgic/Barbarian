@@ -1,0 +1,8 @@
+C:\Users\igor.cpereira2\source\repos\Aguia\Aguia\obj\Debug\Aguia.csproj.AssemblyReference.cache
+C:\Users\igor.cpereira2\source\repos\Aguia\Aguia\obj\Debug\Aguia.csproj.SuggestedBindingRedirects.cache
+C:\Users\igor.cpereira2\source\repos\Aguia\Aguia\obj\Debug\Aguia.csproj.CoreCompileInputs.cache
+C:\Users\igor.cpereira2\source\repos\Aguia\Aguia\bin\Debug\Aguia.exe.config
+C:\Users\igor.cpereira2\source\repos\Aguia\Aguia\bin\Debug\Aguia.exe
+C:\Users\igor.cpereira2\source\repos\Aguia\Aguia\bin\Debug\Aguia.pdb
+C:\Users\igor.cpereira2\source\repos\Aguia\Aguia\obj\Debug\Aguia.exe
+C:\Users\igor.cpereira2\source\repos\Aguia\Aguia\obj\Debug\Aguia.pdb
